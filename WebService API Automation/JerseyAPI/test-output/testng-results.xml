@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="141332" started-at="2017-12-11T11:03:56Z" finished-at="2017-12-11T11:06:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="141332" started-at="2017-12-11T11:03:56Z" finished-at="2017-12-11T11:06:18Z">
+      <class name="TestNGMode">
+        <test-method status="PASS" signature="postGetAccessToken()[pri:0, instance:TestNGMode@149e0f5d]" name="postGetAccessToken" duration-ms="141285" started-at="2017-12-11T16:33:56Z" finished-at="2017-12-11T16:36:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postGetAccessToken -->
+      </class> <!-- TestNGMode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
